@@ -22,13 +22,13 @@ console.log(string.toLowerCase())
   
 function sayHiToGrandma (string){
   if(string.toUpperCase() === string) 
-  return "Yes Indeed!"
+  return "YES INDEED!"
   
   else if (string === "I love you, Grandma." )
-  return " I love you, too"
+  return " Ilove you, too"
   
   else {
-    return " I can't hear you! "
+    return "I can't hear you! "
   }
   
 }
