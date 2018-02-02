@@ -32,6 +32,6 @@ function sayHiToGrandma (string){
   
   else if (string===string.toLowerCase)
     return "I can't hear you! "
-  }
+  
   
 }
